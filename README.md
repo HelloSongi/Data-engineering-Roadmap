@@ -50,4 +50,5 @@ Learn more about DBMS here <https://www.appdynamics.com/topics/database-manageme
 * Aggregate functions
 * Operators
     
+<https://www.w3schools.com/sql/sql_in.asp>
     

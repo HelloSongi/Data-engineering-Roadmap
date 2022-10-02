@@ -51,4 +51,7 @@ Learn more about DBMS here <https://www.appdynamics.com/topics/database-manageme
 * Operators
     
 <https://www.w3schools.com/sql/sql_in.asp>
+
+
+# 6. Big Data
     

@@ -68,5 +68,21 @@ DROP INDEX - deletes an index
 <https://www.w3schools.com/sql/sql_in.asp>
 
 
-# 6. Big Data
+# 6. Big Data Fudamentals
+
+* What is Big Data
+* 5 V's of Big Data
+* Distributed Computation
+* Commodity hardwares
+* Clusters
+* File formats
+     * CSV
+     * Json
+     * Parquet
+     * ORC
+     * XML
+* Type of data
+     * Structured
+     * Semi-structured
+     * Unstructured
     

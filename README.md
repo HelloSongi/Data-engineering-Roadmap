@@ -29,10 +29,10 @@ To learn any of the given languages checkout <https://w3schools.com/>
 
 Choose a DBMS platform and use that to learn the given fundamentals below
 
-      * DCL, DML, DDL
-      * E-R diagrams, Schema, Primary/Foreign keys
-      * Constraints, Deadlock, Indexing
-      * Views, Normalization, Data types
+     * DCL, DML, DDL
+     * E-R diagrams, Schema, Primary/Foreign keys
+     * Constraints, Deadlock, Indexing
+     * Views, Normalization, Data types
     
 Learn more about DBMS here <https://www.appdynamics.com/topics/database-management-systems>
 
@@ -52,19 +52,19 @@ Learn more about DBMS here <https://www.appdynamics.com/topics/database-manageme
     
 Most important SQl commands include
 
-```
-SELECT - extracts data from a database
-UPDATE - updates data in a database
-DELETE - deletes data from a database
-INSERT INTO - inserts new data into a database
-CREATE DATABASE - creates a new database
-ALTER DATABASE - modifies a database
-CREATE TABLE - creates a new table
-ALTER TABLE - modifies a table
-DROP TABLE - deletes a table
-CREATE INDEX - creates an index (search key)
-DROP INDEX - deletes an index
-```
+
+     * SELECT - extracts data from a database
+     * UPDATE - updates data in a database
+     * DELETE - deletes data from a database
+     * INSERT INTO - inserts new data into a database
+     * CREATE DATABASE - creates a new database
+     * ALTER DATABASE - modifies a database
+     * CREATE TABLE - creates a new table
+     * ALTER TABLE - modifies a table
+     * DROP TABLE - deletes a table
+     * CREATE INDEX - creates an index (search key)
+     * DROP INDEX - deletes an index
+
 <https://www.w3schools.com/sql/sql_in.asp>
 
 
@@ -86,3 +86,5 @@ DROP INDEX - deletes an index
      * Semi-structured
      * Unstructured
     
+    
+    <https://www.coursera.org/learn/big-data-introduction>

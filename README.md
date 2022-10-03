@@ -7,20 +7,27 @@
 Choose any of the 3 give programming languages give above based on the companies you intend to apply to, but i'd reccomend python as it widely used by most companire.
 To learn any of the given languages checkout <https://w3schools.com/>
 
-# 2. Data Structures and Algorithms (basics)
+# 2. Data Exploration Libraries
+
+* Pandas
+* Numpy
+* BeautifulSoup4 
+* Requests
+
+# 3. Data Structures and Algorithms (basics)
 
 * Arrays, list, stack, queque , tree, graph
 * Dynamic Programming
 * Searching and Sorting
 
-# 3. Operating Systems
+# 4. Operating Systems
 
 * Linux and/or Unix OS
 * Shell Scripting
 
 <https://www.shellscript.sh/>
 
-# 4. Database Management Systems
+# 5. Database Management Systems
 
 * MySQL :fireworks:
 * Microsoft SQL Server
@@ -37,7 +44,7 @@ Choose a DBMS platform and use that to learn the given fundamentals below
 Learn more about DBMS here <https://www.appdynamics.com/topics/database-management-systems>
 
 
-# 5. SQL
+# 6. SQL
 
 * Transction
 * All types of joins 
@@ -67,15 +74,15 @@ Most important SQl commands include
 
 <https://www.w3schools.com/sql/sql_in.asp>
 
-# 6. NoSQL Databases
+# 7. NoSQL Databases
 
 * HBase
-* Cassandra
-* MongoDB
+* Cassandra :fireworks:
+* MongoDB :fireworks:
 * Redis
 
 
-# 7. Big Data Fudamentals
+# 8. Big Data Fudamentals
 
 * What is Big Data
 * 5 V's of Big Data
@@ -95,3 +102,28 @@ Most important SQl commands include
     
     
     <https://www.coursera.org/learn/big-data-introduction>
+    
+# 9. Data Warehousing Concepts
+
+* OLAP vs OLTP
+* Dimentional Tables
+* Fact Tables
+* Star Schema
+* Snowflake
+* Dbt
+* Warehousing Design
+
+# 10. Big Data Processing Frameworks
+
+* Hadoop (Very Important)
+    * MapReduce
+    * Yarn
+    * HDFS
+    * Hive
+* Apache Spark(Most Important)
+    * PySpark :fireworks:
+    * Spark SQL :fireworks:
+    * SparkML
+    * GraphX
+    * Spark Streaming :fireworks:
+    

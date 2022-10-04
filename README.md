@@ -140,5 +140,14 @@ Most important SQl commands include
 
 <https://hevodata.com/learn/airflow-alternatives/>
 
+# 12. Messaging Queue Framework
+
+* Apache Kafka (Recommended)
+* RabbitMQ
+* Celery
+
+
+
+
 
     

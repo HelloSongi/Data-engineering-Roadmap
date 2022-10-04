@@ -113,6 +113,8 @@ Most important SQl commands include
 * Dbt
 * Warehousing Design
 
+<https://www.coursera.org/learn/fundamentals-of-data-warehousing>
+
 # 10. Big Data Processing Frameworks
 
 * Hadoop (Very Important)
@@ -120,10 +122,23 @@ Most important SQl commands include
     * Yarn
     * HDFS
     * Hive
-* Apache Spark(Most Important)
+* Apache Spark (Most Important)
     * PySpark :fireworks:
     * Spark SQL :fireworks:
     * SparkML
     * GraphX
     * Spark Streaming :fireworks:
+    
+<https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop>
+    
+# 11. Workflow Schuduler/Management Platform
+
+* Apache Airflow (Recommended)
+* Azkban
+* Luigi
+* Dagster
+
+<https://hevodata.com/learn/airflow-alternatives/>
+
+
     

@@ -145,7 +145,9 @@ Most important SQl commands include
 * Apache Kafka (Recommended)
 * RabbitMQ
 * Celery
+* Nsq
 
+<https://blog.containerize.com/2021/07/09/top-5-open-source-message-queue-software-in-2021/>
 
 
 

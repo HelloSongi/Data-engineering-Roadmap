@@ -152,7 +152,7 @@ Most important SQl commands include
 # 13. Dashboarding Tool
 
 * Tableau :fireworks:
-* Graphana
+* Grafana
 * Power Bi :fireworks:
 * Kibana
 

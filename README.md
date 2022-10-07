@@ -157,6 +157,7 @@ Most important SQl commands include
 * Kibana
 
 # 14. Cloud Service Provider
+* AWS
 
 
 

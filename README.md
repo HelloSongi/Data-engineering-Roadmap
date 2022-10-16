@@ -159,6 +159,7 @@ Most important SQl commands include
 # 14. Cloud Service Provider
 * AWS
 * Azure
+* GCP
 
 
 

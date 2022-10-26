@@ -160,6 +160,7 @@ Most important SQl commands include
 * AWS
 * Azure
 * GCP
+* Oracle
 
 
 
